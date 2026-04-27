@@ -22,7 +22,6 @@ Zara adalah perusahaan ritel fashion global yang selalu mengikuti tren dan perke
 **Penjelasan Project:**
 -
 Project ini merupakan analisa dari faktor-faktor yang memengaruhi volume penjualan produk Zara, yang membantu perusahaan dalam menentukan strategi terbaik untuk mengelola stok dan meningkatkan penjualan. Data yang digunakan untuk analisa berupa:
-Data audines yang digunakan untuk analisa berupa:
 
 - Posisi Produk
 - Promosi
