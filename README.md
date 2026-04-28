@@ -36,9 +36,6 @@ Project ini merupakan analisa dari faktor-faktor yang memengaruhi volume penjual
 **Fitur Yang Digunakan:**
 -
 Visualisasi menggunakan:
-- Bar Chart : Mengetahui distribusi total penjualan berdasarkan posisi produk dan promosi
-- Bar Chart : Mengetahui distribusi total penjualan berdasarkan seasonal dan jenis pakaian (terms)
-- Bar Chart : Mengetahui distribusi total penjualan berdasarkan section dan season
-- Bar Chart : Mengetahui distribusi total penjualan berdasarkan material dan origin
+- Bar Chart : Mengetahui distribusi total penjualan berdasarkan posisi produk, promosi, seasonal, jenis pakaian, section, season, material dan origin
 - Heatmap : Mengetahui korelasi antara harga dan volume penjualan
 - Bar Chart (Horizontal) : Mengetahui feature importance dari model Random Forest terhadap volume penjualan
